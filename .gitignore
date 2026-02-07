@@ -1,3 +1,33 @@
-.idea
-python
+# Virtual environments
+venv/
+ENV/
+env/
 
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Build / dist files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
